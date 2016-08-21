@@ -1,1 +1,23 @@
-# siv3d_examples
+# Siv3D Examples
+
+ここでは、[Siv3D](http://play-siv3d.hateblo.jp/) のいろいろな便利な機能を試したり、紹介したりするために作成した、ちょっとしたプログラムをサンプル集として公開しています。
+
+## サンプル集
+
+|イメージ|リンク|内容|キーワード|
+|:-------|:--|:--|:--|
+|[![scene_s](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/scene_s.gif)](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/scene.gif)|[siv3d_scene.cpp](https://gist.github.com/voidproc/721418b49cf5cf1b354c2e0e870ca38b)|ham::SceneManager でお手軽シーンチェンジ|SceneManager|
+|[![imgcomb_s](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/imgcomb_s.gif)](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/imgcomb.gif)|[imgcomb.cpp](https://gist.github.com/voidproc/85af87131bfa42b2e369e61284b3da6c)|2つの画像を横または縦に繋げて保存します。|Image, DragDrop, GUI|
+|[![fadeframes_s](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/fadeframes_s.gif)](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/fadeframes.gif)|[siv3d_fade_frames.cpp](https://gist.github.com/voidproc/5a633f1bdef67728e4c35d1c265db709)|描画結果をフレーム毎にフェードアウトさせる効果|RenderTexture|
+|[![titlebar_s](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/titlebar_s.png)](https://raw.githubusercontent.com/voidproc/siv3d_examples/master/img/titlebar.png)|[siv3d_custom_titlebar.cpp](https://gist.github.com/voidproc/cbd3ebf226a3cca73d17e9417bac36fc)|タイトルバーと閉じるボタンを独自に実装する|Rectangle|
+
+
+## 開発環境
+
+* Windows 10 Pro 64bit
+* Visual Studio 2015 Community
+* Siv3D March 2016
+
+## 連絡先
+
+質問や意見などあればこちらへ (Twitter)： [@voidproc](https://twitter.com/voidproc)
