@@ -6,6 +6,7 @@
 
 |イメージ|リンク|内容|キーワード|
 |:-------|:--|:--|:--|
+|[![encimg_s](img/encimg_s.png)](img/encimg.png)|[decodeimage.cpp](https://gist.github.com/voidproc/21c445757ea33e5d1d2350fd72731fe0)|Base64 でエンコードした画像をソースコードに 直接埋め込み、表示する|Base64|
 |[![scene_s](img/scene_s.gif)](img/scene.gif)|[siv3d_scene.cpp](https://gist.github.com/voidproc/721418b49cf5cf1b354c2e0e870ca38b)|ham::SceneManager でお手軽シーンチェンジ|SceneManager|
 |[![imgcomb_s](img/imgcomb_s.gif)](img/imgcomb.gif)|[imgcomb.cpp](https://gist.github.com/voidproc/85af87131bfa42b2e369e61284b3da6c)|2つの画像を横または縦に繋げて保存|Image, DragDrop, GUI|
 |[![fadeframes_s](img/fadeframes_s.gif)](img/fadeframes.gif)|[siv3d_fade_frames.cpp](https://gist.github.com/voidproc/5a633f1bdef67728e4c35d1c265db709)|描画結果をフレーム毎にフェードアウトさせる効果|RenderTexture|
