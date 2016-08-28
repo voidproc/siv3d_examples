@@ -18,7 +18,7 @@
 
 * Windows 10 Pro 64bit / Windows 7 Professional 64bit
 * Visual Studio 2015 Community
-* Siv3D March 2016
+* Siv3D August 2016
 
 ## 連絡先
 
