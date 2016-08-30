@@ -6,6 +6,7 @@
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
+|[![blink_s](img/blink_s.gif)](img/blink.gif)|[s3dkun_blink.cpp](https://gist.github.com/voidproc/14ed210f8067d22c8f3d3ceaf423ea36)|ピクセルシェーダでテクスチャを白く点滅させるエフェクト|PixelShader, ConstantBuffer|
 |noimage|[nodraw_during_resize.cpp](https://gist.github.com/voidproc/3139e13be5cbe6627bada396f9db149f)|ウィンドウをのリサイズ中は描画を抑制する|ScalableWindow, StopWatch|
 |[![encimg_s](img/encimg_s.png)](img/encimg.png)|[decodeimage.cpp](https://gist.github.com/voidproc/21c445757ea33e5d1d2350fd72731fe0)|Base64 でエンコードした画像をソースコードに 直接埋め込み、表示する|Base64|
 |[![scene_s](img/scene_s.gif)](img/scene.gif)|[siv3d_scene.cpp](https://gist.github.com/voidproc/721418b49cf5cf1b354c2e0e870ca38b)|ham::SceneManager でお手軽シーンチェンジ|SceneManager|
