@@ -6,6 +6,8 @@
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
+|[![twinkle_s](img/twinkle_s.gif)](img/twinkle.gif)|[twinkle.cpp](https://gist.github.com/voidproc/486f0229b095272fc611ebca1319750c)|キラキラ|CreateNStar|
+|[![cutinfx_s](img/cutinfx_s.gif)](img/cutinfx.gif)|[cutinfx.cpp](https://gist.github.com/voidproc/8b8d002dcad2537336f64fdaaf2436c3)|ゲームでよく見るカットインエフェクト||
 |[![intersect_s](img/intersect_s.gif)](img/intersect.gif)|[intersect.cpp](https://gist.github.com/voidproc/5703ada299c95117af42b44ba2ab3401)|Shape に対する当たり判定|Shape, Geometry2D|
 |[![blink_s](img/blink_s.gif)](img/blink.gif)|[s3dkun_blink.cpp](https://gist.github.com/voidproc/14ed210f8067d22c8f3d3ceaf423ea36)|ピクセルシェーダでテクスチャを白く点滅させるエフェクト|PixelShader, ConstantBuffer|
 |noimage|[nodraw_during_resize.cpp](https://gist.github.com/voidproc/3139e13be5cbe6627bada396f9db149f)|ウィンドウのリサイズ中は描画を抑制する|ScalableWindow, StopWatch|
