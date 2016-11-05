@@ -6,6 +6,7 @@
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
+|[![power_s](img/power_s.png)](img/power.png)|[power.cpp](https://gist.github.com/voidproc/e871a89fff37c9d3d32e879b7afae4d5)|バッテリー残量、AC 電源接続状態を表示|GetSystemPowerStatus (Win32API)|
 |[![twinkle_s](img/twinkle_s.gif)](img/twinkle.gif)|[twinkle.cpp](https://gist.github.com/voidproc/486f0229b095272fc611ebca1319750c)|キラキラ|CreateNStar|
 |[![cutinfx_s](img/cutinfx_s.gif)](img/cutinfx.gif)|[cutinfx.cpp](https://gist.github.com/voidproc/8b8d002dcad2537336f64fdaaf2436c3)|ゲームでよく見るカットインエフェクト||
 |[![intersect_s](img/intersect_s.gif)](img/intersect.gif)|[intersect.cpp](https://gist.github.com/voidproc/5703ada299c95117af42b44ba2ab3401)|Shape に対する当たり判定|Shape, Geometry2D|
