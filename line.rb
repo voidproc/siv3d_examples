@@ -5,7 +5,7 @@ def puts_flush(text)
 end
 
 puts_flush 'Image file:'
-imgfile = gets.chomp
+imgfile = gets.chomp.downcase
 imgfile_s = imgfile.gsub(/\.(png|jpg|gif|bmp)$/, '_s.\1')
 imgname = imgfile.gsub(/\.(png|jpg|gif|bmp)$/, '_s')
 
