@@ -6,6 +6,7 @@
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
+|[![keyname_s](img/keyname_s.png)](img/keyname.png)|[keyname.cpp](https://gist.github.com/voidproc/a99c1928c73f7f76c513d9ce8c0263cb)|押されたキーの名前を表示|Key, Input, GetKeyNameText (Win32API)|
 |noimage|[loadTextures.cpp](https://gist.github.com/voidproc/9769389be475222adadd373214c094bc)|指定したフォルダ内のすべての PNG 画像を TextureAsset に登録する．アセット名はファイル名を使用|TextureAsset, FileSystem|
 |noimage|[scale.cpp](https://gist.github.com/voidproc/8bf4379412cfb01a2760507b3c401922)|ポストエフェクトを使用し、描画結果を等倍拡大する|PostEffect|
 |[![power_s](img/power_s.png)](img/power.png)|[power.cpp](https://gist.github.com/voidproc/e871a89fff37c9d3d32e879b7afae4d5)|バッテリー残量、AC 電源接続状態を表示|GetSystemPowerStatus (Win32API)|
