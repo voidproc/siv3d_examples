@@ -6,6 +6,7 @@
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
+|[![morph_s](img/morph_s.gif)](img/morph.gif)|[morph.cpp](https://gist.github.com/voidproc/0480f7b75f5cc37d8b8a701188596a73)|図形のモーフィング|Polygon|
 |[![transform_s](img/transform_s.gif)](img/transform.gif)|[transform.cpp](https://gist.github.com/voidproc/06bdc2aa0387b60cf9bf5a821314e923)|2D 描画位置を自由にずらす|Transformer2D|
 |[![keyname_s](img/keyname_s.png)](img/keyname.png)|[keyname.cpp](https://gist.github.com/voidproc/a99c1928c73f7f76c513d9ce8c0263cb)|押されたキーの名前を表示|Key, Input, GetKeyNameText (Win32API)|
 |noimage|[loadTextures.cpp](https://gist.github.com/voidproc/9769389be475222adadd373214c094bc)|指定したフォルダ内のすべての PNG 画像を TextureAsset に登録する．アセット名はファイル名を使用|TextureAsset, FileSystem|
