@@ -34,3 +34,8 @@
 ## 連絡先
 
 質問や意見などあればこちらへ (Twitter)： [@voidproc](https://twitter.com/voidproc)
+
+
+## License
+
+These examples are published under the MIT license. See [LICENSE](LICENSE).
