@@ -8,6 +8,7 @@
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
 |[![ddp_s](img/ddp_s.gif)](img/ddp.gif)|[ddp.cpp](https://gist.github.com/voidproc/133f015c10124a9f6e85372833788215)|障害物に当たるまで上方へ伸びる DDP 風レーザー|intersectsAt(), Emoji|
+|[![whites_s](img/whites_s.gif)](img/whites.gif)|[whites.cpp](https://gist.github.com/voidproc/8a935b19317e8644af98091780a5cf91)|チョウのようなものの群れが飛んで行く||
 |[![glyph_s](img/glyph_s.gif)](img/glyph.gif)|[glyph.cpp](https://gist.github.com/voidproc/939f70b67c821c4a05915b328d43a51b)|グリフアニメーション|Glyph|
 |[![sparkle_s](img/sparkle_s.gif)](img/sparkle.gif)|[emoji_sparkle.cpp](https://gist.github.com/voidproc/4922180c5bde9ffbdc5ca01f61d13372)|絵文字のみを使ってキラッとするアニメーション|Emoji|
 
