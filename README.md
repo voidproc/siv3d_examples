@@ -1,8 +1,17 @@
 # Siv3D Examples
 
-ここでは、[Siv3D](http://play-siv3d.hateblo.jp/) のいろいろな便利な機能を試したり、紹介したりするために作成した、ちょっとしたプログラムをサンプル集として公開しています。
+ここでは、[Siv3D](http://play-siv3d.hateblo.jp/) 及び [OpenSiv3D](https://github.com/Siv3D/OpenSiv3D) のいろいろな便利な機能を試したり、紹介したりするために作成した、ちょっとしたプログラムをサンプル集として公開しています。
 
-## サンプル集
+
+## OpenSiv3D サンプル集
+
+|イメージ|リンク|内容|キーワード|
+|:------:|:--|:--|:--|
+|[![ddp_s](img/ddp_s.gif)](img/ddp.gif)|[ddp.cpp](https://gist.github.com/voidproc/133f015c10124a9f6e85372833788215)|障害物に当たるまで上方へ伸びる DDP 風レーザー|intersectsAt(), Emoji|
+|[![glyph_s](img/glyph_s.gif)](img/glyph.gif)|[glyph.cpp](https://gist.github.com/voidproc/939f70b67c821c4a05915b328d43a51b)|グリフアニメーション|Glyph|
+|[![sparkle_s](img/sparkle_s.gif)](img/sparkle.gif)|[emoji_sparkle.cpp](https://gist.github.com/voidproc/4922180c5bde9ffbdc5ca01f61d13372)|絵文字のみを使ってキラッとするアニメーション|Emoji|
+
+## Siv3D サンプル集
 
 |イメージ|リンク|内容|キーワード|
 |:------:|:--|:--|:--|
@@ -27,9 +36,12 @@
 
 ## 開発環境
 
-* Windows 10 Pro 64bit / Windows 7 Professional 64bit
+* Windows 10 Pro 64bit
 * Visual Studio 2015 Community
-* Siv3D August 2016
+    * Siv3D August 2016 v2
+* Visual Studio 2017 Community
+    * OpenSiv3D v0.1.5
+
 
 ## 連絡先
 
