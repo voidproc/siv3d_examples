@@ -1,7 +1,15 @@
+<br>
+
+※ **以下のサイトへ移行予定です。**<br>
+[Siv3Dミニサンプル集](https://scrapbox.io/voidproc-siv3d-examples/Siv3D%E3%83%9F%E3%83%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E9%9B%86)
+
+<br>
+<br>
+
+
 # Siv3D Examples
 
 ここでは、[Siv3D](http://play-siv3d.hateblo.jp/) 及び [OpenSiv3D](https://github.com/Siv3D/OpenSiv3D) のいろいろな便利な機能を試したり、紹介したりするために作成した、ちょっとしたプログラムをサンプル集として公開しています。
-
 
 ## :hatching_chick: OpenSiv3D サンプル集
 
