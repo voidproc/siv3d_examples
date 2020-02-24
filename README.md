@@ -1,6 +1,6 @@
 <br>
 
-※ **以下のサイトへ移行予定です。**<br>
+※ **以下のサイトへ移行しました。**<br>
 [Siv3Dミニサンプル集](https://scrapbox.io/voidproc-siv3d-examples/Siv3D%E3%83%9F%E3%83%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E9%9B%86)
 
 <br>
